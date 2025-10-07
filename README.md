@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Likith Kagita!
 
-I’m a passionate Data Science and Machine Learning Engineer with a Master’s in Data Science from the University of New Haven (Class of 2025). I specialize in building intelligent systems that solve real-world problems, from developing transformer-based NLP models to engineering deep learning solutions for medical image segmentation.
+I’m a passionate Data Science and Machine Learning Engineer with a Master’s in Data Science from the University of New Haven. I specialize in building intelligent systems that solve real-world problems, from developing transformer-based NLP models to engineering deep learning solutions for medical image segmentation.
 
 ## 💻 About Me
 - 🎓 Currently pursuing a Master’s in Data Science (GPA: 3.71/4.0) at the University of New Haven.
