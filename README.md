@@ -15,9 +15,7 @@ I’m a passionate Data Science and Machine Learning Engineer with a Master’s 
 - **Tools**: Git/GitHub, AWS Lambda, PowerBI, Tableau
 
 ## 📫 Let’s Connect!
-- 📧 Email: kagitalikith@gmail.com
-- 🌐 Portfolio: [likithkagita.github.io/portfolio](https://likithkagita.github.io/portfolio)
-- 🔗 LinkedIn: [linkedin.com/in/likith-kagita](https://linkedin.com/in/likith-kagita)
+
 - 🐙 GitHub: You’re already here!
 
 Let’s build something impactful together!
