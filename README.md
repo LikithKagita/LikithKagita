@@ -7,7 +7,6 @@ I’m a passionate Data Science and Machine Learning Engineer with a Master’s 
 - 🏆 Won the DBS Hackathon and received the Dean’s Scholarship for academic excellence.
 - 💼 Previously a Software Engineer Intern at Cognizant, where I optimized IoT systems and built a Face Recognition System with 98% accuracy.
 - 🔍 Interested in AI security, NLP, and distributed data engineering.
-- 🌟 Fun fact: I love traveling—check out my portfolio pic in front of the Washington Monument!
 
 ## 🛠️ Skills
 - **Languages**: Python, R, Java, SQL, JavaScript, C/C++
