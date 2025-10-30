@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Likith Kagita!
+# 👋 Hi, I’m Likith!
 
 I’m a passionate Data Science and Machine Learning Engineer with a Master’s in Data Science from the University of New Haven. I specialize in building intelligent systems that solve real-world problems, from developing transformer-based NLP models to engineering deep learning solutions for medical image segmentation.
 
